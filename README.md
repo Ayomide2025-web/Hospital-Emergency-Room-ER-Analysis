@@ -7,10 +7,10 @@ The  power BI project Analyzes hospital emergency room(ER) data to identify key 
 📉**Slicers**
 
 ## Tools Used
-Power BI
-DAX
-Data Modellling
-Visualization
+Power BI, 
+DAX,
+Data Modellling,
+Visualization.
 
 ## Files
 ~ "Hospital emergency ER dashboard.pbix" - The power BI project file
